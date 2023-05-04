@@ -1,0 +1,19 @@
+---
+unicode:
+  character: 'ඞ '
+  paint_bg: false
+colors:
+  0_contribution: "#4C566A"
+  1_contribution: "#8FBCBB"
+  2_contribution: "#91BCB6"
+  3_contribution: "#93BCB2"
+  4_contribution: "#95BDAD"
+  5_contribution: "#97BDA8"
+  6_contribution: "#99BDA4"
+  7_contribution: "#9BBD9F"
+  8_contribution: "#9FBE95"
+  9_contribution: "#A1BE91"
+  x_contribution: "#A3BE8C"
+cache:
+  interval: 10
+
